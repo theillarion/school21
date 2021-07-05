@@ -1,0 +1,4 @@
+ex00: OK | ex01: Does not compile | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: KO | ex07: OK | ex08: OK | ex09: Does not compile | ex10: Does not compile | ex11: Nothing turned in | ex12: Nothing turned in
+
+fail 5/100
+
