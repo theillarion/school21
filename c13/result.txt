@@ -1,0 +1,3 @@
+ex00: KO | ex01: OK | ex02: OK | ex03: OK | ex04: KO | ex05: OK | ex06: KO | ex07: Nothing turned in
+
+fail 0/100

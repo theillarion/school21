@@ -1,0 +1,3 @@
+ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: KO | ex06: OK | ex07: OK | ex08: Does not compile | ex09: OK | ex10: OK | ex11: OK | ex12: Does not compile | ex13: Segmentation fault | ex14: Nothing turned in | ex15: Nothing turned in | ex16: Nothing turned in | ex17: Nothing turned in
+
+fail 21/100
