@@ -1,0 +1,16 @@
+main_tests.c
+main_test.c
+*.out
+*.o
+.DS_Store
+*.txt
+map_gen
+bsq
+file.txt
+test
+script.pl
+test_flags
+example_file
+check.cpp
+.vscode/
+t*
